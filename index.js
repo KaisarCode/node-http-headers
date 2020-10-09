@@ -139,6 +139,7 @@ hdr.setCookie = function(res, k, v = '', opt) {
 
 // Set CSP
 hdr.csp = function(res, v) {
+    v = v || 'lax';
     if (v == 'lax') {
         var s =
         "default-src *  data: blob: filesystem: about: ws: wss: 'unsafe-inline' 'unsafe-eval';"+ 
