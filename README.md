@@ -1,5 +1,5 @@
 # KC Headers
-HTTP response headers [NodeJS]
+[NodeJS] HTTP response headers
 
 ### Install
 ```
