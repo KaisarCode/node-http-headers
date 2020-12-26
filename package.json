@@ -1,6 +1,6 @@
 {
   "name": "kc-headers",
-  "version": "1.0.14",
+  "version": "1.0.15",
   "description": "[nodejs] HTTP response headers.",
   "main": "index.js",
   "repository": {
