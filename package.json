@@ -1,11 +1,11 @@
 {
   "name": "kc-headers",
   "version": "1.0.14",
-  "description": "HTTP response headers [NodeJS]",
+  "description": "[nodejs] HTTP response headers.",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/KaisarCode/NodeHTTPHeaders.git"
+    "url": "git+https://github.com/KaisarCode/node-http-headers.git"
   },
   "keywords": [
     "HTTP",
@@ -15,9 +15,9 @@
   "author": "KaisarCode",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/KaisarCode/NodeHTTPHeaders/issues"
+    "url": "https://github.com/KaisarCode/node-http-headers/issues"
   },
-  "homepage": "https://github.com/KaisarCode/NodeHTTPHeaders#readme",
+  "homepage": "https://github.com/KaisarCode/node-http-headers",
   "dependencies": {
     "kc-fctype": "^1.0.8",
     "kc-mime-list": "^1.0.0"
