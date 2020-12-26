@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/KaisarCode/node-http-headers",
   "dependencies": {
-    "kc-fctype": "^1.0.8",
-    "kc-mime-list": "^1.0.0"
+    "kc-fctype": "^1.0.12",
+    "kc-mime-list": "^1.0.5"
   }
 }
